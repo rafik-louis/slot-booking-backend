@@ -1,0 +1,11 @@
+[
+    {"id": 1,"name": "Alex & Behira"},
+    {"id": 2,"name": "Canal (Port Said, Ismailia, Suez)"},
+    {"id": 3,"name": "East Cairo (Heliopolis, Nasr City, New Cairo, Rehab Madinaty, Obour)"},
+	{"id": 4,"name": "East Delta (Dekhalia, Sharkia, Damietta)"},
+    {"id": 5,"name": "Middle Cairo (Maadi, Downtown, Manial, Mokatam, Helwan, Benha, Shoubra)"},
+	{"id": 6,"name": "Upper Egypt 1 (Assiut, Sohag, Aswan)"},
+    {"id": 7,"name": "Upper Egypt 2 (Minya, Bani Suef, Fayoum)"},
+	{"id": 8,"name": "West Cairo (Mohandesin, Dokki, Agouza, Haram, 6th of October, Zayed)"},
+    {"id": 9,"name": "West Delta (Gharbia, Menofia, Kafr Sheikh)"}
+]

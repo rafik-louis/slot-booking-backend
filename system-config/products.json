@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "LAROCHEPOSAY",
+        "code":"larocheposay"
+    },
+    {
+        "id":2,
+        "name": "VICHY",
+        "code":"vichy"
+    },
+    {
+        "id":3,
+        "name": "DERCOS",
+        "code":"dercos"
+    },
+    {
+        "id":4,
+        "name": "CeraVe",
+        "code":"cerave"
+    }
+]
